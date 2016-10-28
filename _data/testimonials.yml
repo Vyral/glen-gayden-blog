@@ -1,5 +1,20 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
+  - quote: The Gayden Team was amazing. They were outstanding throughout my buying experience. I have a very busy work schedule and they always made me feel like I was at the top of his list. I would highly recommend them to anyone searching for a home. Im very happy.
+    name: Joe K.
+    audio:
+  - quote: The Gayden Team was incredibly friendly and knowledgeable. They were always very quick to respond and made us feel like their only client. They were supper supportive and always willing to put in the extra effort. We were beyond happy with their work and their work ethics. We will be referring all of our friends to them. This was the best experience ever! In a market like this, we were ably to get the house of our choice all because of their hard work.
+    name: May & Darren
+    audio:
+  - quote: We had an amazing experience with The Gayden Team. They were there to answer all of our questions and all of our needs. We found a great home thanks to them.
+    name: Giza B.
+    audio:
+  - quote: I recommend The Gayden Team to anyone who is looking to buy or sell a home. They were very professional and answered all my questions when I had them. Everyone I spoke to was very knowledgable and polite. I will definitely use them in the future for my next transaction. Thank you guys!
+    name: David L.
+    audio:
+  - quote: The Gayden Team was very helpful in finding me a place to live in Houston. They were very patient with me and took time to show me houses around the area I wanted. They were very flexible in accomodating my requests for particular schedules. I have recommended they to my other colleagues as well.
+    name: Deepak A.
+    audio:
+  - quote: The Gayden Team kept us informed on what needed to be done to help us buy a home, Very easy to work with, always there when we need it. I wish to thank you and your team for the professional service you gave us! I am also referring a friend from work to you guys! Thanks!
+    name: Alba G.
     audio:

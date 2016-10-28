@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Base Template</title>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.</description>
+    <title>The Gayden Team Real Estate Video Blog</title>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Gayden Team - your professional Katy, Texas Real Estate Agents.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 Oct 2016 11:09:55 -0500</pubDate>
-    <lastBuildDate>Mon, 10 Oct 2016 11:09:55 -0500</lastBuildDate>
+    <pubDate>Fri, 28 Oct 2016 11:05:02 -0500</pubDate>
+    <lastBuildDate>Fri, 28 Oct 2016 11:05:02 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
