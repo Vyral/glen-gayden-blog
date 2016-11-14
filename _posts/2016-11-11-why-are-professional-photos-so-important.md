@@ -21,7 +21,7 @@ youtube_code: HuWgJtML_zQ
 
 Professional photos are so important when listing your property because you only get one chance to make a first impression. **Studies have shown that 90% to 95% of buyers today start their home search online**, so the photos your agent posts are key to driving traffic to your property.
 
-**Photos are what help buyers determine whether they want to see the home in person or not**. Make sure your agent uses professional photography as part of their marketing plan, because dark, grainy, or small photos can deter people from coming out to see the home. Professional photos shot in HD are perfect for the Internet. Drone photography can also be utilized to highlight your lot size and special features of your home.
+**Photos are what help buyers determine whether they want to see the home in person or not**. Make sure your agent uses professional photography as part of their marketing plan, because dark, grainy, or small photos can deter people from coming out to see the home. Professional photos shot in HD are perfect for the Internet. Drone photography can also be utilized to highlight your lot size and any special features of your home.
 
 **{% include pullquote.html %}**
 
