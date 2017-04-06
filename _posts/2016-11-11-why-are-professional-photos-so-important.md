@@ -2,9 +2,6 @@
 layout: post
 title: Why Are Professional Photos So Important?
 tags:
-  - Market Update
-  - Real Estate
-  - Buyer Tips
   - Home Seller Tips
 excerpt: 'In today’s real estate world, good online photos are essential. If you want to sell your home, you’ve got to make it look great on the Internet.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Glen+Gayden/Videos/Why+You+Need+Professional+Photography.mp4'
