@@ -9,7 +9,7 @@ pullquote: The appraisal protects the buyer and lender from overpaying for the p
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/glengayden-screenshot-email-01-01-01.jpg
+youtube_alternate_image: /uploads/GlenGayden_ScreenShot_Tube-01-01-01.jpg
 youtube_code: 3bwbjU0NQXI
 ---
 
@@ -24,7 +24,7 @@ One of the most crucial aspects of buying or selling a home is the appraisal of 
 
 {% include pullquote.html %}
 <br>
-<br>The appraisal affects the buyer in a very pivotal way. Most importantly, **the appraisal gives the buyer an idea of what the exact market value of the property is,&nbsp;**meaning that the mortgage company will not pay more for the property than what it’s worth. The appraisal protects both the buyer and the lender in this process, allowing both parties to move forward in knowing that they made a sound investment.
+<br>The appraisal affects the buyer in a very pivotal way. Most importantly, **the appraisal gives the buyer an idea of what the exact market value of the property is,**meaning that the mortgage company will not pay more for the property than what it’s worth. The appraisal protects both the buyer and the lender in this process, allowing both parties to move forward in knowing that they made a sound investment.
 <br>
 <br>Since the appraisal determines the ultimate value of the property, a low appraisal can put a seller in a compromising position. If an appraiser determines that the property is worth less than the sale price, the seller will either have to reduce their price to the appraised value or the buyer will have to make up the difference in cash.
 <br>
