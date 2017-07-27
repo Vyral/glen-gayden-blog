@@ -8,8 +8,8 @@ enclosure: 'https://s3.amazonaws.com/vyralmarketing/Glen+Gayden/Videos/2017/What
 pullquote: The community is zoned to Katy ISD.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: /GlenGayden_ScreenShot_Email-ElysonParkSpotlight.jpg
+use_youtube_image: true
+youtube_alternate_image:
 youtube_code: rc57kNtdPSY
 ---
 
