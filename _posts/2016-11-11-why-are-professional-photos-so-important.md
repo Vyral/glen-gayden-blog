@@ -8,7 +8,7 @@ enclosure: 'https://s3.amazonaws.com/vyralmarketing/Glen+Gayden/Videos/Why+You+N
 pullquote: HD photos are perfect for the Internet.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/GlenGayden_ScreenShot_Email-01-01.jpg
 youtube_code: HuWgJtML_zQ
 ---
