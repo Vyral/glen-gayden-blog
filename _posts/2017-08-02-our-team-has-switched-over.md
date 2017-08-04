@@ -3,8 +3,11 @@ layout: post
 title: Our Team Has Switched Over
 tags:
   - Real Estate
-excerpt: Today I wanted to share with you the news about our exciting switch to Clayton Nash.
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Glen+Gayden/Videos/2017/Our+Team+Has+Switched+Over+-+Houston+Area+Real+Estate+Agent.mp4'
+excerpt: >-
+  Today I wanted to share with you the news about our exciting switch to Clayton
+  Nash.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Glen+Gayden/Videos/2017/Our+Team+Has+Switched+Over+-+Houston+Area+Real+Estate+Agent.mp4
 pullquote: 'Ultimately, we’re here to help.'
 enclosure_type: video/mp4
 enclosure_time:
@@ -24,7 +27,7 @@ Collectively, we’re confident that this was the right move, and that it will h
 
 {% include pullquote.html %}
 
-**This growth means we’ll be able to service more and more clients.** Whatever your real estate needs are, we would love to help.
+**This growth means we’ll be able to service more clients.** Whatever your real estate needs are, we would love to help.
 
 Also, if you are an agent who is interested to learn more about Clayton Nash, I would love to speak with you and give you information on how you and your business can improve.
 
