@@ -2,7 +2,6 @@
 layout: post
 title: Don’t Wait—There Are Benefits to Listing During the Holidays
 tags:
-  - Home Seller Tips
 excerpt: >-
   If you’re thinking of waiting until after the new year to list, you may want
   to look at these reasons why listing during the holidays has its advantages.
