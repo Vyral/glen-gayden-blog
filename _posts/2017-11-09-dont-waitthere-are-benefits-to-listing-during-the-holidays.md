@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Advantages of Listing During the Holidays
+title: Don’t Wait—There Are Benefits to Listing During the Holidays
 tags:
   - Home Seller Tips
 excerpt: >-
