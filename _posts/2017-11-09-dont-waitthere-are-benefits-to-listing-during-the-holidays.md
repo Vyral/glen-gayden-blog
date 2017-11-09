@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   If you’re thinking of waiting until after the new year to list, you may want
   to look at these reasons why listing during the holidays has its advantages.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Glen+Gayden/Videos/2017/Reasons+to+List+During+the+Holidays+-+Houston+Area+Real+Estate+Agent.mp4
 pullquote: >-
   First and foremost is the tax benefit that buyers in the market during this
   time of year want to enjoy: the homestead exemption.
