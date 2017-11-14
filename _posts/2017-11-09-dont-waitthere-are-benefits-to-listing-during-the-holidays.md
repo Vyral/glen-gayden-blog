@@ -30,16 +30,16 @@ Today I want to talk about some of the advantages of putting your home on the ma
 If you’re not familiar, **the homestead exemption is a very beneficial tax shelter** that allows you to declare to the county that the home that you buy is your primary place of residence. For doing so, **they give you around a 15% tax relief on your bill per year.** Also, if you occupy that residence for two years and you go to sell, if you’re single, you don’t pay any taxes up to $250,000. If you’re married, that goes up to $500,000.
 {: .present-before-paste}
 
-**If you don’t close before December 31, you have to wait until the following year**to take advantage of the benefit. You’ll pay 15% more in taxes, and that two-year occupancy period won’t start until that next year. This is a huge reason to get your home on the market right now and get it sold, while there are serious buyers out in the market trying to meet these requirements in order to enjoy the benefit.
+**If you don’t close before December 31, you have to wait until the following year&nbsp;**to take advantage of the benefit. You’ll pay 15% more in taxes, and that two-year occupancy period won’t start until that next year. This is a huge reason to get your home on the market right now and get it sold, while there are serious buyers out in the market trying to meet these requirements in order to enjoy the benefit.
 {: .present-before-paste}
 
 {% include pullquote.html %}
 {: .present-before-paste}
 
-**The second advantage is the limited amount of inventory that you’re up against.**When you wait until after January 1 to list, as most people do, you’ve got a ton of inventory to compete with. We want to get you on the market before everybody else, that way the classic supply-and-demand ratio plays in your favor.
+**The second advantage is the limited amount of inventory that you’re up against.&nbsp;**When you wait until after January 1 to list, as most people do, you’ve got a ton of inventory to compete with. We want to get you on the market before everybody else, that way the classic supply-and-demand ratio plays in your favor.
 {: .present-before-paste}
 
-A third advantage is the sentimental aspect of the holidays. **Decorating for any of the numerous holidays coming up can make your home show really well.**The buyer is going to be much more capable of envisioning themselves and their families enjoying the holiday season in that particular house.
+A third advantage is the sentimental aspect of the holidays. **Decorating for any of the numerous holidays coming up can make your home show really well.&nbsp;**The buyer is going to be much more capable of envisioning themselves and their families enjoying the holiday season in that particular house.
 {: .present-before-paste}
 
 **All in all, if you’re thinking about selling, I would strongly advise you to reach out to us** and get a market analysis on your property. We’ll share with you our marketing program and platform and get the ball rolling for you. There’s no time better than now: interest rates are still low and there are many buyers in search of homes (particularly after Hurricane Harvey).
