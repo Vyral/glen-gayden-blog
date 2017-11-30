@@ -29,10 +29,12 @@ I get a lot of phone calls from people who tell me they need to rent because the
 
 The National Association of Realtors released a study earlier this year that stated that **renting a home would cost 33% more** than it would if you were to buy that same home.
 
+{% include pullquote.html %}
+
 We’ve got to change this misunderstanding about the loan process and the home buying process.
 
 I can get you set up with some fantastic **lenders that will show you all kinds of available programs and save you money** in the short term and the long term with low interest rates. That way, you’re not paying an egregious amount of money to the bank over the next 30 years.
 
 If you’re interested in that, give me a call or send me an email and we’ll get this ball rolling for you. It’s really quick and simple, and we can have you in a new home as soon as possible, whether you’re a first-time buyer or an experienced buyer. We look forward to hearing from you!
 
-{% include pullquote.html %}
+&nbsp;
