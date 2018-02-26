@@ -18,13 +18,13 @@ youtube_code: qBIb4q5cVDs
 
 {% include youtube.html %}
 
-Most real estate professionals subscribe to the idea that you should make your first hire only when you hit the 50 transactions per year mark. I’m not partial to that way of thinking.** I think that you need to make your first hire once you decide to start thinking like a business owner and acting like a corporation.**
+Most real estate professionals subscribe to the idea that you should make your first hire only when you hit the 50 transactions per year mark. I’m not partial to that way of thinking. **I think that you need to make your first hire once you decide to start thinking like a business owner and acting like a corporation.**
 
 In order to have the level of success you deserve in this business, you need to begin thinking and behaving like a corporation. A corporation is never just one person.
 
 {% include pullquote.html %}
 
-When you make your first hire, it doesn’t have to be anything drastic.** It doesn’t even have to be a stateside hire.**You just need someone you can bring in to take a little bit of work off your plate so that you can focus on finding and servicing your clients.
+When you make your first hire, it doesn’t have to be anything drastic.&nbsp;**It doesn’t even have to be a stateside hire.**You just need someone you can bring in to take a little bit of work off your plate so that you can focus on finding and servicing your clients.
 
 The first thing you should look at is hiring a virtual assistant. They can cost you anywhere from $3 to $12 an hour depending on how skilled you want or need them to be. Virtual assistants are typically very flexible with their schedules as well.
 
