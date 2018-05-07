@@ -11,7 +11,7 @@ enclosure: >-
 pullquote: A solo agent simply doesn’t have enough hours in the day.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image:
 youtube_code: VZNlfKat_EU
 ---
@@ -46,5 +46,5 @@ I love individual agents and have great respect for them. However, the future of
 If you have any questions for us about how our team can help you or if you have any real estate questions in general, we’d love to answer them. Give us a call or send us an email today.
 {: .present-before-paste}
 
-&nbsp;
+ 
 {: .present-before-paste}
