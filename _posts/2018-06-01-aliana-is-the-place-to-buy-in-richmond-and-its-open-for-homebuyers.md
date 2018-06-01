@@ -11,7 +11,7 @@ enclosure: >-
 pullquote: 'If you’re moving to the Richmond area, Aliana is the place to look.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image:
 youtube_code: 6vuOcZJ1IOM
 ---
@@ -37,5 +37,3 @@ Lastly, Highland Homes offers some great buyer incentives. **They have their own
 As another incentive, if you use the Gayden Team to buy a home in Aliana, we’ll throw another 1.5% back toward your closing costs, reduce the list price, or add an option or feature.
 
 I want to thank Troy for joining me today to tell us all about Aliana. If you have any other questions about this development or you’re thinking about buying a home here, don’t hesitate to reach out to me. My team and I would love to help you.
-
-&nbsp;
