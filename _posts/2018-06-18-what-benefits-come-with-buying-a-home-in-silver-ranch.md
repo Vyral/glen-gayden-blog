@@ -27,7 +27,7 @@ In Silver Ranch, **homes start in the $270,000 range and go as high as $350,000.
 
 Silver Ranch is also conveniently located only about a mile west of Cinco Ranch. If you’re familiar with that area, then you know how great the community vibe is. The only difference is that in Silver Ranch, you don’t have to pay the high HOA fees and you don’t have to sacrifice on any of the amenities. Additionally, the schools in the area all carry an exemplary rating.
 
-Meritage Homes is renown builder, but according to Ginger, **what makes them the go-to choice for purchasing a home in Silver Ranch is their energy savings.**
+Meritage Homes is renowned builder, but according to Ginger, **what makes them the go-to choice for purchasing a home in Silver Ranch is their energy savings.**
 
 “We’re 100% Energy Star, so we factor in your savings after you’ve actually made the large purchase,” she says.
 
