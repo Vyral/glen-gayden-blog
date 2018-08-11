@@ -27,13 +27,3 @@ Lennar Homes is proud to be the only builder to be Wi-Fi certified, meaning that
 They are offering two product lines- the Fairfield Series ($230k+) and the Texas Reserve Series ($376k+). Currently, Lennar Homes is offering $5-15k in incentives for new buyers. Additionally, if you use the Gayden team, you will get an additional 1.5% incentive toward closing costs, reduction in price, or additional features.
 
 If you have any questions about buying a home in Jordan Ranch or you have any other real estate needs, please don’t hesitate to reach out to us. We’d be happy to help you.
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-{% include pullquote.html %}
