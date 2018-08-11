@@ -20,7 +20,7 @@ youtube_code: t_UiUz1KAEE
 
 In today’s episode of The New Construction Insider, I’m meeting up with my good friend John Ricke. John told me all about Jordan Ranch, a new Johnson Development project in Brookshire, Texas. This area was voted the number one place to raise a family by the Houston Chronicle.
 
-This community feature great amenities, including a pool and lazy river opening this summer. They also have a baseball field, soccer field, and community garden in the works to open next year.
+This community features great amenities, including a pool and lazy river opening this summer. They also have a baseball field, soccer field, and community garden in the works to open next year.
 
 Lennar Homes is proud to be the only builder to be Wi-Fi certified, meaning that no matter how many devices you have or what part of the home you’re in, you will not lose internet connection.
 
